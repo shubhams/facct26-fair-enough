@@ -1,4 +1,4 @@
-# Fair Enough - FAccT 2026
+# Effect of Resources on the Efficiency-Fairness Tradeoff for Allocation Problems - FAccT 2026
 
 ## Setup
 
