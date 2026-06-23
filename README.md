@@ -79,7 +79,7 @@ This project analyzes fairness in machine learning algorithms through budget-bas
     publisher = {Association for Computing Machinery},
     url = {https://doi.org/10.1145/3805689.3812245},
     doi = {10.1145/3805689.3812245},
-    booktitle = {Proceedings of the 2nd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization},
+    booktitle = {Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency},
     series = {FAccT '26}
 }
 ```
